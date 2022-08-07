@@ -19,5 +19,5 @@ int main()
     cout<<"\n";
   }
 }
-//Time complexity will be 2^n for outer loop and n for inner loop so O(2^n * n)
-// Space complexity will be O(1)
+//Time complexity will be 2^n for outer loop and n for inner loop so O(2^n * n). Here 'n' refers size of the string.
+// Space complexity will be O(1).
